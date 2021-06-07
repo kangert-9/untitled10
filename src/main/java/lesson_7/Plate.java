@@ -19,7 +19,7 @@ public class Plate {
             return false;
         }
     }
-
+//шестое задание
     public void increaseFood(int n) {
             food += n;
         System.out.println("Мы добавили в тарелку еды");
