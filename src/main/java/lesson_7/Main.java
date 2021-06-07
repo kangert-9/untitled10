@@ -18,7 +18,7 @@ public class Main {
         cat[0].eat(plate);
         plate.info();
 
-        //кормим всех котов естое задание
+        //кормим всех котов пятое задание
         for (int i = 0; i < cat.length; i++) {
             cat[i].eat(plate);
         }
